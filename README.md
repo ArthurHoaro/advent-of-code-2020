@@ -7,6 +7,7 @@ Written in Python 3. Note that I'm not very familiar with Python so you might se
 ## Quick access
 
   * [x] Day 01: [Part 1](./01/1) - [Part 2](./01/2)
+  * [ ] Day 02: [Part 1](./02/1) - [Part 2](./02/2)
 
 ## Licence
 
@@ -26,4 +27,4 @@ Written in Python 3. Note that I'm not very familiar with Python so you might se
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
-  ```
+```
