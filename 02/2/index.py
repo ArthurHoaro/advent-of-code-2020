@@ -2,7 +2,7 @@ import os
 import re
 from pathlib import Path
 
-regex = re.compile('(\d+)\-(\d+) (\w): (\w+)')
+regex = re.compile(r'(\d+)\-(\d+) (\w): (\w+)')
 parseLine = lambda line: regex.findall(line)[0]
 
 errors = 0

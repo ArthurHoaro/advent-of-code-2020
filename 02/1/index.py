@@ -13,7 +13,7 @@ with Path(f'{currentPath}/input').open() as resource:
 	    minNb, maxNb, letter, password = parseLine(line)
 	    count = password.count(letter)
 	    total += 1
-	    errors += 1 if count < int(minNb) or count > int(maxNb) else 0
+	    errors += 1 if not int(minNb) <= count <= int(maxNb) else 0
 
 print('Processed ', total)
 print('Valid ', total - errors)
