@@ -7,7 +7,9 @@ Written in Python 3. Note that I'm not very familiar with Python so you might se
 ## Quick access
 
   * [x] Day 01: [Part 1](./01/1) - [Part 2](./01/2)
-  * [ ] Day 02: [Part 1](./02/1) - [Part 2](./02/2)
+  * [x] Day 02: [Part 1](./02/1) - [Part 2](./02/2)
+  * [x] Day 03: [Part 1](./03/1) - [Part 2](./03/2)
+  * [x] Day 04: [Part 1](./04/1) - [Part 2](./04/2)
 
 ## Licence
 
