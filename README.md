@@ -13,6 +13,7 @@ Written in Python 3. Note that I'm not very familiar with Python so you might se
   * [x] Day 05: [Part 1](./05/1) - [Part 2](./05/2)
   * [x] Day 06: [Part 1](./06/1) - [Part 2](./06/2)
   * [x] Day 07: [Part 1](./07/1) - [Part 2](./07/2)
+  * [x] Day 08: [Part 1](./08/1) - [Part 2](./08/2)
 
 ## Licence
 
